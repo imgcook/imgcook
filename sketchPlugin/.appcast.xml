@@ -2,7 +2,7 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <item>
-      <enclosure url="https://github.com/dvcdv/dvc_sketch_plugin/releases/download/v1.5.5/davinci_vip.sketchplugin.zip" sparkle:version="1.5.5"/>
+      <enclosure url="http://ai-sample.oss-cn-hangzhou.aliyuncs.com/sketch/imgcook_vip.sketchplugin.zip" sparkle:version="1.5.6"/>
     </item>
   </channel>
 </rss>

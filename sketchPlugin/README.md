@@ -13,7 +13,7 @@ It can help you quickly describe the design draft in code.
 
 Choose an artboard or group then click export data and you will get a json data on your clipboard. This json data can be used to generate ui code, and we will provide the service that generates ui code in the near future.
 
-<img width="535" alt="screen shot 1" src="https://intranetproxy.alipay.com/skylark/lark/0/2018/png/200/1545918134633-390e51eb-3c59-468b-908b-cecf5e394944.png">
+<img width="535" alt="screen shot 1" src="https://img.alicdn.com/tfs/TB1YEYRzFzqK1RjSZSgXXcpAVXa-745-256.png">
 
 # export data example
 

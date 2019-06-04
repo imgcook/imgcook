@@ -1,6 +1,6 @@
 ---
 name: Default
-about: Describe this issue template's purpose here.
+about: Create a report to help us improve
 title: ''
 labels: ''
 assignees: ''

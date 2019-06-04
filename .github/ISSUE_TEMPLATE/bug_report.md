@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+If you want to communicate with us further, please scan the qr code below:
+![imgcook钉钉群二维码](https://ai-sample.oss-cn-hangzhou.aliyuncs.com/imgcook%E9%92%89%E9%92%89%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.jpeg)
 **Describe the bug**
 A clear and concise description of what the bug is.
 

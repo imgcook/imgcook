@@ -3,10 +3,10 @@
   <channel>
     <!-- <item>
       <enclosure url="https://github.com/taofed/imgcook/releases/download/v1.7.12/imgcook.sketchplugin.zip" sparkle:version="1.7.12"/>
-    </item>
+    </item> -->
     <item>
       <enclosure url="https://github.com/taofed/imgcook/releases/download/v1.7.10/imgcook.sketchplugin.zip" sparkle:version="1.7.10"/>
-    </item> -->
+    </item>
     <item>
       <enclosure url="https://github.com/taofed/imgcook/releases/download/v1.7.9/imgcook.sketchplugin.zip" sparkle:version="1.7.9"/>
     </item>

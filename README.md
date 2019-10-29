@@ -1,8 +1,14 @@
 # imgcook
 
 [imgcook](https://imgcook.taobao.org/) 是阿里巴巴集团在前端智能化方向的落地产品，专注以 Sketch、PSD、静态图片等形式的视觉稿作为输入，通过智能化技术一键生成可维护的前端代码，包含视图代码、数据字段绑定、组件代码、部分业务逻辑代码。<br />
-<br />![image.png](https://img.alicdn.com/tfs/TB1pWhIk.H1gK0jSZSyXXXtlpXa-686-127.png)<br />
-<br />我们期望 imgcook (图像大厨) 能够利用智能化手段，成为一位 P5 级别的前端工程师，在对设计稿轻约束的前提下实现高度还原，释放前端生产力，助力前端与设计师高效协作，让您关注更具挑战性的事情！
+
+<p align="center">
+  <a href="http://www.imgcook.com">
+    <img alt="imgcook" src="https://img.alicdn.com/tfs/TB1pWhIk.H1gK0jSZSyXXXtlpXa-686-127.png" width="343">
+  </a>
+</p>
+
+我们期望 imgcook (图像大厨) 能够利用智能化手段，成为一位 P5 级别的前端工程师，在对设计稿轻约束的前提下实现高度还原，释放前端生产力，助力前端与设计师高效协作，让您关注更具挑战性的事情！
 
 
 ## 使用场景
@@ -31,7 +37,11 @@ imgcook 目前支持各种场景的页面或模块的高度还原，您可以根
 
 在阿里巴巴集团，imgcook 已承担了双 11 大促活动中所有模块的开发，在闲鱼、飞猪、蚂蚁保险等 BU 也有广泛使用。在集团外部，有赞、51信用卡等公司也在使用 imgcook 来提高前端开发效率。
 
-![image.png](https://img.alicdn.com/tfs/TB1HX3_kF67gK0jSZPfXXahhFXa-1126-263.png)
+<p align="center">
+  <a href="http://www.imgcook.com">
+    <img alt="imgcook" src="https://img.alicdn.com/tfs/TB1HX3_kF67gK0jSZPfXXahhFXa-1126-263.png" width="563">
+  </a>
+</p>
 
 如果您也想尝试并了解 imgcook，请查看文档指南或加入我们的钉钉群。
 
@@ -44,10 +54,12 @@ imgcook 目前支持各种场景的页面或模块的高度还原，您可以根
 
 ### 问题反馈
 
-[https://github.com/issues](https://github.com/issues)
+[https://github.com/taofed/imgcook/issues](https://github.com/taofed/imgcook/issues)
 
 ### 钉钉交流
 
 **社区同学** 请扫码加入 **社区群**，**阿里内部同学** 请加入 **内部群**。
 
-![image.png](https://img.alicdn.com/tfs/TB1HI0Jk7L0gK0jSZFAXXcA9pXa-694-487.png)
+<p align="center">
+    <img src="https://img.alicdn.com/tfs/TB1HI0Jk7L0gK0jSZFAXXcA9pXa-694-487.png" width="500">
+</p>

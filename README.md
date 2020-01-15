@@ -1,6 +1,6 @@
 # imgcook
 
-[imgcook](https://imgcook.taobao.org/) 是阿里巴巴集团在前端智能化方向的落地产品，专注以 Sketch、PSD、静态图片等形式的视觉稿作为输入，通过智能化技术一键生成可维护的前端代码，包含视图代码、数据字段绑定、组件代码、部分业务逻辑代码。<br />
+[imgcook](https://www.imgcook.com/) 是阿里巴巴集团在前端智能化方向的落地产品，专注以 Sketch、PSD、静态图片等形式的视觉稿作为输入，通过智能化技术一键生成可维护的前端代码，包含视图代码、数据字段绑定、组件代码、部分业务逻辑代码。<br />
 
 <p align="center">
   <a href="http://www.imgcook.com">
@@ -50,7 +50,7 @@ imgcook 目前支持各种场景的页面或模块的高度还原，您可以根
 
 ### 官方文档
 
-[https://imgcook.taobao.org/docs](https://imgcook.taobao.org/docs)
+[https://www.imgcook.com/docs](https://www.imgcook.com/docs)
 
 ### 问题反馈
 
@@ -61,5 +61,6 @@ imgcook 目前支持各种场景的页面或模块的高度还原，您可以根
 **社区同学** 请扫码加入 **社区群**，**阿里内部同学** 请加入 **内部群**。
 
 <p align="center">
-    <img src="https://img.alicdn.com/tfs/TB1HI0Jk7L0gK0jSZFAXXcA9pXa-694-487.png" width="500">
+    <img src="https://img.alicdn.com/tfs/TB11kDbqUz1gK0jSZLeXXb9kVXa-993-1280.png" width="250">
+    <img src="https://img.alicdn.com/tfs/TB1G02dqHr1gK0jSZR0XXbP8XXa-993-1280.png" width="250">
 </p>

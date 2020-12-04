@@ -27,13 +27,13 @@ For the created modules, you can also manage them by team and project dimensions
 
 imgcook currently supports highly restored for pages and modules in various scenarios. You can choose whether to use imgcook according to the following scenario classification. <br />
 
-• Mobile fine-grained module development scenario - `Special recommendation`
-• Mobile promotion pages - `Special recommendation`
-• Mobile full page development - `Recommended`
-• PC to consumer application - `Recommended`
-• PC to business application
-• PC rich-interactive application - `Not recommended`
-• Game development - `Not recommended`
+- Mobile fine-grained module development scenario - `Special recommendation`
+- Mobile promotion pages - `Special recommendation`
+- Mobile full page development - `Recommended`
+- PC to consumer application - `Recommended`
+- PC to business application
+- PC rich-interactive application - `Not recommended`
+- Game development - `Not recommended`
 
 
 ## Target Users

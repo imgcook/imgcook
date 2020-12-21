@@ -2,6 +2,9 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <item>
+      <enclosure url="https://ai-sample.oss-cn-hangzhou.aliyuncs.com/sketch/2.4.0/imgcook.sketchplugin.zip" sparkle:version="2.4.0"/>
+    </item>
+    <item>
       <enclosure url="https://ai-sample.oss-cn-hangzhou.aliyuncs.com/sketch/2.3.2/imgcook.sketchplugin.zip" sparkle:version="2.3.2"/>
     </item>
     <item>

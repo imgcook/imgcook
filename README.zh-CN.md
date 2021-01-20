@@ -1,3 +1,5 @@
+简体中文 | [English](https://github.com/imgcook/imgcook/blob/master/README.md)
+
 # imgcook
 
 [imgcook](https://www.imgcook.com/) 是阿里巴巴集团在前端智能化方向的落地产品，专注以 Sketch、PSD、静态图片等形式的视觉稿作为输入，通过智能化技术一键生成可维护的前端代码，包含视图代码、数据字段绑定、组件代码、部分业务逻辑代码。<br />

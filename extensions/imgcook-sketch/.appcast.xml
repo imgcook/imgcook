@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <item>
+      <enclosure url="https://ai-sample.oss-cn-hangzhou.aliyuncs.com/sketch/2.4.2/imgcook.sketchplugin.zip" sparkle:version="2.4.2"/>
+    </item>
+    <item>
+      <enclosure url="https://ai-sample.oss-cn-hangzhou.aliyuncs.com/sketch/2.4.0/imgcook.sketchplugin.zip" sparkle:version="2.4.0"/>
+    </item>
+    <item>
+      <enclosure url="https://ai-sample.oss-cn-hangzhou.aliyuncs.com/sketch/2.3.2/imgcook.sketchplugin.zip" sparkle:version="2.3.2"/>
+    </item>
+    <item>
+      <enclosure url="https://ai-sample.oss-cn-hangzhou.aliyuncs.com/sketch/2.3.0/imgcook.sketchplugin.zip" sparkle:version="2.3.0"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taofed/imgcook/releases/download/v2.2.0/imgcook.sketchplugin.zip" sparkle:version="2.2.0"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taofed/imgcook/releases/download/v2.1.21/imgcook.sketchplugin.zip" sparkle:version="2.1.21"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taofed/imgcook/releases/download/v2.1.19/imgcook.sketchplugin.zip" sparkle:version="2.1.19"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taofed/imgcook/releases/download/v2.1.17/imgcook.sketchplugin.zip" sparkle:version="2.1.17"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taofed/imgcook/releases/download/v2.1.14/imgcook.sketchplugin.zip" sparkle:version="2.1.14"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taofed/imgcook/releases/download/v2.1.10/imgcook.sketchplugin.zip" sparkle:version="2.1.10"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taofed/imgcook/releases/download/v2.1.9/imgcook.sketchplugin.zip" sparkle:version="2.1.9"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taofed/imgcook/releases/download/v2.1.8/imgcook.sketchplugin.zip" sparkle:version="2.1.8"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taofed/imgcook/releases/download/v2.0.14/imgcook.sketchplugin.zip" sparkle:version="2.0.14"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taofed/imgcook/releases/download/v2.0.6/imgcook.sketchplugin.zip" sparkle:version="2.0.6"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taofed/imgcook/releases/download/v2.0.5/imgcook.sketchplugin.zip" sparkle:version="2.0.5"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taofed/imgcook/releases/download/v2.0.0/imgcook.sketchplugin.zip" sparkle:version="2.0.0"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taofed/imgcook/releases/download/v1.8.6/imgcook.sketchplugin.zip" sparkle:version="1.8.6"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taofed/imgcook/releases/download/v1.8.5/imgcook.sketchplugin.zip" sparkle:version="1.8.5"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taofed/imgcook/releases/download/v1.8.4/imgcook.sketchplugin.zip" sparkle:version="1.8.4"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taofed/imgcook/releases/download/v1.8.3/imgcook.sketchplugin.zip" sparkle:version="1.8.3"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taofed/imgcook/releases/download/v1.8.2/imgcook.sketchplugin.zip" sparkle:version="1.8.2"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taofed/imgcook/releases/download/v1.8.1/imgcook.sketchplugin.zip" sparkle:version="1.8.1"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taofed/imgcook/releases/download/v1.7.13/imgcook.sketchplugin.zip" sparkle:version="1.7.13"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taofed/imgcook/releases/download/v1.7.12/imgcook.sketchplugin.zip" sparkle:version="1.7.12"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taofed/imgcook/releases/download/v1.7.10/imgcook.sketchplugin.zip" sparkle:version="1.7.10"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taofed/imgcook/releases/download/v1.7.9/imgcook.sketchplugin.zip" sparkle:version="1.7.9"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taofed/imgcook/releases/download/v1.7.3/imgcook.sketchplugin.zip" sparkle:version="1.7.3"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taofed/imgcook/releases/download/v1.7.2/imgcook.sketchplugin.zip" sparkle:version="1.7.2"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taobaofed/imgcook/releases/download/v1.7.1/imgcook.sketchplugin.zip" sparkle:version="1.7.1"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taobaofed/imgcook/releases/download/v1.7.0/imgcook.sketchplugin.zip" sparkle:version="1.7.0"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taobaofed/imgcook/releases/download/v1.6.9/imgcook.sketchplugin.zip" sparkle:version="1.6.9"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taobaofed/imgcook/releases/download/v1.6.8/imgcook.sketchplugin.zip" sparkle:version="1.6.8"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taobaofed/imgcook/releases/download/v1.6.7/imgcook.sketchplugin.zip" sparkle:version="1.6.7"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taobaofed/imgcook/releases/download/v1.6.6/imgcook.sketchplugin.zip" sparkle:version="1.6.6"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taobaofed/imgcook/releases/download/v1.6.4/imgcook.sketchplugin.zip" sparkle:version="1.6.4"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taobaofed/imgcook/releases/download/v1.6.3/imgcook.sketchplugin.zip" sparkle:version="1.6.3"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taobaofed/imgcook/releases/download/v1.6.2/imgcook.sketchplugin.zip" sparkle:version="1.6.2"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taobaofed/imgcook/releases/download/v1.6.1/imgcook.sketchplugin.zip" sparkle:version="1.6.1"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taobaofed/imgcook/releases/download/v1.6.0/imgcook.sketchplugin.zip" sparkle:version="1.6.0"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/taobaofed/imgcook/releases/download/v1.5.8/imgcook.sketchplugin.zip" sparkle:version="1.5.8"/>
+    </item>
+    <item>
+      <enclosure url="http://ai-sample.oss-cn-hangzhou.aliyuncs.com/sketch/imgcook_vip.sketchplugin.zip" sparkle:version="1.5.7"/>
+    </item>
+  </channel>
+</rss>

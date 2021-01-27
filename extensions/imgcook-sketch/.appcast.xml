@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
+     <item>
+      <enclosure url="https://ai-sample.oss-cn-hangzhou.aliyuncs.com/sketch/4.0.0/imgcook.zip" sparkle:version="4.0.0"/>
+    </item>
     <item>
       <enclosure url="https://ai-sample.oss-cn-hangzhou.aliyuncs.com/sketch/2.4.2/imgcook.sketchplugin.zip" sparkle:version="2.4.2"/>
     </item>

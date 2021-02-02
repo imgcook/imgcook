@@ -21,12 +21,41 @@ English | [简体中文](https://github.com/imgcook/imgcook/blob/master/extensio
 
 Our Website: [https://www.imgcook.com](https://www.imgcook.com/)
 
-### Getting Started
+## Features
+
+### Design to code
+
+imgcook has no strict constraints and requirements on the design draft, but it can still make the reduction effect more friendly through some simple specifications. For example, divide the layers belonging to the same module into a group, and merge multiple drawings. Please refer to the basic specifications of the design draft for details.
+
+After the plug-in is installed successfully, open the [content.Sketch] file, and click 「Plugins」 - 「imgcook」 - 「打开/关闭面板」 to call up the imgcook panel to assist visual adjustment.
+
+<p align="center"><img src="https://gw.alicdn.com/imgextra/i2/O1CN01Yavnl51frWgbDTlcl_!!6000000004060-2-tps-2880-1800.png" alt=""></p>
+
+### Visual editing
+
+In the imgcook visual editor, we can edit views, such as supporting dynamic expression styles, setting loops, and modifying layouts. You can also write logic code, bind fields, and more. It is recommended that you read the editor introduction before starting.
+
+<p align="center"><img src="https://gw.alicdn.com/imgextra/i3/O1CN01wriR2o26ryhWBtvWq_!!6000000007716-2-tps-2880-1750.png" alt=""></p>
+
+### Generate code
+
+Please click "save" before generating the code. If the page changes, the editor will also monitor and remind you. Click "导出" after saving to local folder.
+
+<p align="center"><img src="https://gw.alicdn.com/imgextra/i3/O1CN01w4bGyE1rlp8wio9jZ_!!6000000005672-2-tps-2880-1750.png" alt=""></p>
+
+
+From JSON description to code. We need to write DSL to analyze. We have official DSL. You can also [customize DSL](https://www.imgcook.com/docs?slug=dsl-dev).
+
+
+[Learn more about imgcook](https://www.imgcook.com/tutorial)
+
+
+## Getting Started
 
 1. [Install the extension](https://marketplace.visualstudio.com/items?itemName=imgcook.imgcook)
 2. Right click on any folder in the VSCode file explorer and select 「Open With imgcook studio」 to start developing.
 
-### Using imgcook
+## Using imgcook
 
 - You can right click on any folder in the VSCode file explorer and select 「Open With imgcook studio」 to start developing. Or alternatively, you can execute `imgcook: Open With imgcook studio` in the Command Palette to using imgcook in the current project.
 
@@ -44,11 +73,11 @@ Our Website: [https://www.imgcook.com](https://www.imgcook.com/)
 
 - By export the project, imgcook studio will elegantly generate a workable and readable code project for you.<br><br><img width="500" src="https://gw.alicdn.com/tfs/TB1Ad7yqQL0gK0jSZFxXXXWHVXa-2880-1754.png" alt="design to code">
 
-### Community support
+## Community support
 
 For general help using imgcook, please refer to [the documentation](https://www.imgcook.com/docs). For additional help, you can use one of these channels to ask a question:
 
-#### DingTalk
+### DingTalk
 
 <img width="200" src="https://gw.alicdn.com/tfs/TB1UW5UcIVl614jSZKPXXaGjpXa-750-990.jpg" />
 

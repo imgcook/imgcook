@@ -31,6 +31,29 @@
 
 网站: [https://www.imgcook.com](https://www.imgcook.com/)
 
+### 核心特性
+
+#### 一键还原视觉稿
+从视觉稿中还原生成代码需要将视觉稿中的数据导出到 imgcook 可视化编辑器中还原生成代码。我们支持两种方式：
+
+- 第1种：打开 Sketch/PSD 文件，通过安装好的 imgcook 插件将设计稿中的图层信息导出，粘贴到可视化编辑器中。
+- 第2种：在可视化编辑器中直接上传“导入” Sketch/PSD/图片文件，imgcook 会解析图层信息直接还原到编辑器中。
+
+<p align="center"><img src="https://gw.alicdn.com/imgextra/i2/O1CN01Yavnl51frWgbDTlcl_!!6000000004060-2-tps-2880-1800.png" alt=""></p>
+
+#### 可视化编辑
+
+在 imgcook 可视化编辑器中，我们可以对视图编辑，比如支持动态表达式样式、设置循环、修改布局。还可以编写逻辑代码、绑定字段等。在开始之前建议您先阅读[编辑器介绍](https://www.imgcook.com/docs?slug=editor-info)文档。
+
+<p align="center"><img src="https://gw.alicdn.com/imgextra/i3/O1CN01wriR2o26ryhWBtvWq_!!6000000007716-2-tps-2880-1750.png" alt=""></p>
+
+#### 一键导出代码
+每次生成代码之前请先点击「保存」，如果页面有变化，编辑器也会监测并提醒。保存后点击「导出」即可导出到指定的本地目录。
+
+<p align="center"><img src="https://gw.alicdn.com/imgextra/i3/O1CN01w4bGyE1rlp8wio9jZ_!!6000000005672-2-tps-2880-1750.png" alt=""></p>
+
+[了解有关 imgcook 的更多信息](https://www.imgcook.com/tutorial)
+
 ### 准备工作
 
 1. [安装插件](https://marketplace.visualstudio.com/items?itemName=imgcook.imgcook)

@@ -79,7 +79,7 @@
 
 ### 获取帮助
 
-有关使用 imgcook 的一般帮助，请参阅[文档]（https://www.imgcook.com/docs）。
+有关使用 imgcook 的一般帮助，请参阅[文档](https://www.imgcook.com/docs)。
 要获得更多帮助，您可以使用以下任一渠道提出问题：
 
 #### 钉钉

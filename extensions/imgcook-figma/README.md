@@ -9,7 +9,7 @@ English | [简体中文](https://github.com/imgcook/imgcook/blob/master/extensio
   <br>
 </h1>
 
-<h4 align="center">A intelligent tool that converts design to code.</h4>
+<h4 align="center">A intelligent tool that converts design to code</h4>
 <br>
 
 [imgcook](https://www.imgcook.com/) is an ingenious chef who specializes in cooking with various images (Sketch / PSD / static images). it will intelligently generate front-end codes, including view codes, data-binding codes, component codes as well as part of business logic codes from different kinds of design documents.

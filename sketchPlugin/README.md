@@ -5,7 +5,7 @@ It can help you quickly describe the design draft in code.
 
 ## Installation
 
-* [Download](https://github.com/taobaofed/imgcook/releases) the latest release of the plugin
+* [Download](https://www.imgcook.com) the latest release of the plugin
 * Un-zip
 * Double-click on imgcook_vip.sketchplugin
 

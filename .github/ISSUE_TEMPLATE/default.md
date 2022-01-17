@@ -18,7 +18,7 @@ sketchFile: problematic sketch file,compressed into zip
 
 -->
 If you want to communicate with us further, please scan the qr code below:
-![imgcook钉钉群二维码](https://ai-sample.oss-cn-hangzhou.aliyuncs.com/imgcook%E9%92%89%E9%92%89%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.jpeg)
+![imgcook钉钉群二维码](https://img.alicdn.com/imgextra/i1/O1CN01wdZQKG1MZgdOGthQa_!!6000000001449-2-tps-956-1309.png)
 
 * **pluginVersion**:
 * **sketchVersion**:
